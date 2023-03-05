@@ -8,4 +8,4 @@ Examples of previous work
 
 - There is also a small javascript complitation that I had made to show off some example of Javascript work. 
 
-I had spent the most time with Javascript and C# however no longer have access to any of the work I had done for them but was able to find some old examples of HTML  
+I had spent the most time with Javascript and C# however no longer have access to most of the work I had done with them but was able to find some old examples of HTML  
