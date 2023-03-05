@@ -1,0 +1,16 @@
+//This will just be a complitation of random small work I did in Javascript (mostly in codeacademy)
+
+let raceNumber = Math.floor(Math.random() * 1000);
+const Early = true;
+const Runnerage = 18;
+if (Runnerage >= 18 && Early) {
+ raceNumber += 1000
+ console.log (`Your Race Number is ${raceNumber} and you will race at 9:30AM`) 
+} 
+else if (Runnerage >= 18 && !Early) {
+console.log (`Your Race Number is ${raceNumber} and you will race at 11:00AM`) 
+} else if (Runnerage < 18){
+console.log (`Your Race Number is ${raceNumber} and you will race at 12:30AM`) 
+} else 
+console.log (`please see the Helpdesk`)
+
