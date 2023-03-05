@@ -1,5 +1,6 @@
 # Portfolio
-examples of previous work
+
+Examples of previous work
 
 - Homepage.html is one of my earlier projects and had a few more pages with it but they didn't show anything too different so I just kept the one for demonstration purposes especailly since I already have another project using html on here.
 
